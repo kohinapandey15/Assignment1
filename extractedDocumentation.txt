@@ -1,0 +1,1 @@
+Method 'sleep' in class 'Sleep' is missing documentation.Class 'Walk' is missing documentation.
